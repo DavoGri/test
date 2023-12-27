@@ -2,7 +2,7 @@
 //////
 //////class Person
 //////{
-//////    public $name = "Undefined", $age = 18;
+//////    public $name = "Undefined", $age = 20;
 //////
 //////    function displayInfo()
 //////    {
